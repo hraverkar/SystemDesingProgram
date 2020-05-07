@@ -1,6 +1,6 @@
 # System Desing Program (Elevator Program)
 
-Use case diagram
+Use case diagra.
 All systems interact with human or automated actors that use the system for some purpose, and both human and actors expect the system to behave in predictable ways.
 # Use case diagram
 ![alt text](https://github.com/hraverkar/SystemDesingProgram/blob/master/SystemDesignProgram/1.png)
